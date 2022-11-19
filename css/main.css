@@ -2,19 +2,10 @@
     width: 200px;
     height: 100px;
     background-color: rgb(35, 172, 210);
-    margin-left: 700px;
-    margin-top: 20px;
-   
-}
-.block1 {
-    margin-left: 550px;
-    margin-top: 50px;
 }
 p {
     text-transform: uppercase;
 }
 h1 {
-    margin-left: 700px;
-    margin-top: 200px;
     text-transform: uppercase;
 }
